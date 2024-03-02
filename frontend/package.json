@@ -27,7 +27,7 @@
     "@vueuse/core": "^10.5.0",
     "element-plus": "^2.4.1",
     "js-base64": "^3.7.5",
-    "monaco-editor": "^0.45.0",
+    "monaco-editor": "^0.46.0",
     "vue": "^3.2.37"
   },
   "devDependencies": {
